@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+    <style name="GianTheme">
+        <item name="android:textColor">@color/primaryDarkColor</item>
+    </style>
+    <style name="GianTheme2">
+        <item name="android:textColor">@color/primaryColor</item>
+    </style>
+    <style name="GianTheme3">
+        <item name="android:textColor">@color/primaryColor</item>
+    </style>
+    <style name="GianTheme4">
+        <item name="android:background">@color/primaryLightColor</item>
+    </style>
+
+</resources>
